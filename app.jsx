@@ -1,0 +1,14 @@
+{
+  "name": "MILK STAND",
+  "short_name": "MILK STAND",
+  "description": "屋台オーダー管理アプリ",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0906",
+  "theme_color": "#0B0906",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
